@@ -1,8 +1,20 @@
 # 👋 Kuari Pass & Pangarchulla Hike
 
-1. [Somas Camps](http://www.somascamps.com/)
-2. [Kuari Pass](https://indiahikes.com/kuari-pass)
-2. [Pangarchulla](https://indiahikes.com/pangarchulla-peak-trek)
+**Organized by:** [Somas Camps](http://www.somascamps.com/)
+
+## Trails
+
+We will be starting with Kuari Pass, which is a moderate difficulty trek:
+- [Kuari Pass](https://indiahikes.com/kuari-pass) - Moderate difficulty
+
+Depending on how we fare on the trail, we will attempt the challenging peak:
+- [Pangarchulla](https://indiahikes.com/pangarchulla-peak-trek) - Hard difficulty
+
+## Important Guidelines
+- Everyone needs to start preparing now
+- Everyone moves forward together or all turn back
+- If one person has a health issue, we all turn around
+- Rigorous workout schedule must begin immediately
 
 ## Timelines
 
