@@ -1,7 +1,7 @@
 # 👋 Kuari Pass & Pangarchulla Hike
 
-[Kuari Pass](https://indiahikes.com/kuari-pass)
-[Pangarchulla](https://indiahikes.com/pangarchulla-peak-trek)
+1. [Kuari Pass](https://indiahikes.com/kuari-pass)
+2. [Pangarchulla](https://indiahikes.com/pangarchulla-peak-trek)
 
 
 ## Itinerary
@@ -25,7 +25,7 @@ Meals- evening tea+ snacks and dinner.
 
 **March 15 (Sunday)**
 
-**Day 2**:  Joshimath To Guling/ Akhoda getaa
+**Day 2**: Joshimath To Guling/ Akhoda getaa
 Trek distance - 4 km
 Time 3hrs
 Altitude 2850mtr
@@ -42,7 +42,8 @@ Stay in tents
 Meals+ hot lunch, tea +snacks, soup, dinner with sweet dish
 
 **March 17 (Tuesday)**
-Day 4:  Khullara To Kuwari pass summit and back to Khullara
+
+**Day 4**:  Khullara To Kuwari pass summit and back to Khullara
 Distance - 5+5 =10km Trek
 Altitude 3800mtr
 Time 8-9hrs
@@ -50,17 +51,20 @@ Stay in Tents
 Meals - breakfast, packed lunch, tea+ snacks, soup, dinner & sweet dish.
 
 **March 18 (Wednesday)**
-Day 5: Chill day a Kullara or if we are up to it we can go up to [Pangarchulla peak](https://indiahikes.com/pangarchulla-peak-trek#quick-itinerary)
+
+**Day 5**: Chill day a Kullara or **if we are up to it** we can go up to [Pangarchulla peak](https://indiahikes.com/pangarchulla-peak-trek#quick-itinerary)
 
 **March 19 (Thursday)**
-Day 6 : Khullara To Joshimath
+
+**Day 6** : Khullara To Joshimath
 Distance 10km trek
 Time 4-5hrs
 Stay Hotel
 Meals - breakfast ,packed lunch, tea+snacks, dinner
 
-**March 20 (Thursday**
-Day 7: Departure date: Drop to Rishikesh from Joshimath. -> Delhi
+**March 20 (Friday)**
+
+**Day 7**: Departure date: Drop to Rishikesh from Joshimath. -> Delhi
 Meals:  breakfast
 
 ## Package per head
