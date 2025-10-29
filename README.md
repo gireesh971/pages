@@ -27,27 +27,28 @@
 | March 20 (Fri) | Day 7 | Drop to Rishikesh from Joshimath → Delhi | - | - | - | - | Breakfast |
 | March 21 (Sat) | - | Departure from Delhi | - | - | - | - | - |
 
-## Package per head
-**18500**
+## Package Cost
+**₹18,500 per person**
 
-## Package  includes:
-Comfortable Transportation for pick up and drop at Rishikesh
-Hotel
-Meals ( breakfast+lunch+Dinner+tea/coffee+ snacks+Soup+sweet dish) while  on the trail.  Eevevning ta  with snack and dinner  on Day 1 and  breakfast on Day 6.
-Stays  in tents while on the trek .
-Sleeping bag + mattress
-Kitchen& Dining tent+toilet tent
-Forest permition fees
-Local Guide charge
-Charges for Soma's Camps trek lead
+## Package Includes
+- Comfortable transportation for pick up and drop at Rishikesh
+- Hotel accommodation
+- Meals (breakfast + lunch + dinner + tea/coffee + snacks + soup + sweet dish) while on the trail
+- Evening tea with snacks and dinner on Day 1
+- Breakfast on Day 7
+- Tent accommodation during the trek
+- Sleeping bag + mattress
+- Kitchen & dining tent + toilet tent
+- Forest permission fees
+- Local guide charges
+- Soma's Camps trek leader charges
 
-
-## Exclusion
-Insurance
-Food during the transit.
-Any kind of personal expenses.
-Mule or porter to carry personal luggage.
-Emergency evacuation, hospitalization charge, etc.
+## Package Excludes
+- Insurance
+- Food during transit
+- Personal expenses
+- Mule or porter for personal luggage
+- Emergency evacuation and hospitalization charges
 
 <p align="center">
     <a href='https://www.free-counters.org/'>free HitCounters</a> 
