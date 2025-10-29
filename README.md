@@ -5,9 +5,12 @@
 2. [Pangarchulla](https://indiahikes.com/pangarchulla-peak-trek)
 
 ## Timelines
-* March 12: Arrival in Delhi 
-* March 14 - 20: Hike
-* March 21 - Departure from Delhi - late evening
+
+| Date | Activity |
+|------|----------|
+| March 12 | Arrival in Delhi |
+| March 14 - 20 | Hike |
+| March 21 | Departure from Delhi - late evening |
 
 ## Itinerary
 
