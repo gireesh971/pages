@@ -14,70 +14,18 @@
 
 ## Itinerary
 
-**March 12 (Thursday)**
-
-Arrival in Delhi
-
-**March 13 (Friday)**
-
-Delhi to Rishikesh ~ 5 hour
-
-**March 14 (Saturday)**
-
-**Day 1**:  Pick up from Rishikesh. Drive To Joshimath
-Distance 220km Drive
-Time 8-9hrs
-Altitude 2250mtr
-Night stay - Hotel
-Meals- evening tea+ snacks and dinner.
-
-**March 15 (Sunday)**
-
-**Day 2**: Joshimath To Guling/ Akhoda getaa
-Trek distance - 4 km
-Time 3hrs
-Altitude 2850mtr
-Stay in tents
-Meals - breakfast, packed lunch, tea +snacks and soup , dinner, sweet dish
-
-**March 16 (Monday)**
-
-**Day 3**: :  Guling/Akhoda getaa To khullara
-Distance 5km trek
-Time 4hrs
-Altitude 3300mtr
-Stay in tents
-Meals+ hot lunch, tea +snacks, soup, dinner with sweet dish
-
-**March 17 (Tuesday)**
-
-**Day 4**:  Khullara To Kuwari pass summit and back to Khullara
-Distance - 5+5 =10km Trek
-Altitude 3800mtr
-Time 8-9hrs
-Stay in Tents
-Meals - breakfast, packed lunch, tea+ snacks, soup, dinner & sweet dish.
-
-**March 18 (Wednesday)**
-
-**Day 5**: Chill day a Kullara or **if we are up to it** we can go up to [Pangarchulla peak](https://indiahikes.com/pangarchulla-peak-trek#quick-itinerary)
-
-**March 19 (Thursday)**
-
-**Day 6** : Khullara To Joshimath
-Distance 10km trek
-Time 4-5hrs
-Stay Hotel
-Meals - breakfast ,packed lunch, tea+snacks, dinner
-
-**March 20 (Friday)**
-
-**Day 7**: Departure date: Drop to Rishikesh from Joshimath. -> Delhi
-Meals:  breakfast
-
-**March 21 (Saturday)**
-
-Departure from Delhi
+| Date | Day | Activity | Distance | Time | Altitude | Stay | Meals |
+|------|-----|----------|----------|------|----------|------|-------|
+| March 12 (Thu) | - | Arrival in Delhi | - | - | - | - | - |
+| March 13 (Fri) | - | Delhi to Rishikesh | - | 5 hours | - | - | - |
+| March 14 (Sat) | Day 1 | Pick up from Rishikesh. Drive to Joshimath | 220km Drive | 8-9hrs | 2250mtr | Hotel | Evening tea + snacks, dinner |
+| March 15 (Sun) | Day 2 | Joshimath to Guling/Akhoda getaa | 4km trek | 3hrs | 2850mtr | Tents | Breakfast, packed lunch, tea + snacks, soup, dinner, sweet dish |
+| March 16 (Mon) | Day 3 | Guling/Akhoda getaa to Khullara | 5km trek | 4hrs | 3300mtr | Tents | Hot lunch, tea + snacks, soup, dinner, sweet dish |
+| March 17 (Tue) | Day 4 | Khullara to Kuari pass summit and back | 10km trek | 8-9hrs | 3800mtr | Tents | Breakfast, packed lunch, tea + snacks, soup, dinner, sweet dish |
+| March 18 (Wed) | Day 5 | Chill day at Kullara or [Pangarchulla peak](https://indiahikes.com/pangarchulla-peak-trek#quick-itinerary) | - | - | - | Tents | - |
+| March 19 (Thu) | Day 6 | Khullara to Joshimath | 10km trek | 4-5hrs | - | Hotel | Breakfast, packed lunch, tea + snacks, dinner |
+| March 20 (Fri) | Day 7 | Drop to Rishikesh from Joshimath → Delhi | - | - | - | - | Breakfast |
+| March 21 (Sat) | - | Departure from Delhi | - | - | - | - | - |
 
 ## Package per head
 **18500**
