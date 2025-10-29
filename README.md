@@ -3,6 +3,10 @@
 1. [Kuari Pass](https://indiahikes.com/kuari-pass)
 2. [Pangarchulla](https://indiahikes.com/pangarchulla-peak-trek)
 
+## Timelines
+* March 12: Arrival in Delhi 
+* March 14 - 20: Hike
+* March 21 - Departure from Delhi - late evening
 
 ## Itinerary
 
@@ -66,6 +70,10 @@ Meals - breakfast ,packed lunch, tea+snacks, dinner
 
 **Day 7**: Departure date: Drop to Rishikesh from Joshimath. -> Delhi
 Meals:  breakfast
+
+**March 21 (Saturday)**
+
+Departure from Delhi
 
 ## Package per head
 **18500**
