@@ -1,6 +1,7 @@
 # 👋 Kuari Pass & Pangarchulla Hike
 
-1. [Kuari Pass](https://indiahikes.com/kuari-pass)
+1. [Somas Camps](http://www.somascamps.com/)
+2. [Kuari Pass](https://indiahikes.com/kuari-pass)
 2. [Pangarchulla](https://indiahikes.com/pangarchulla-peak-trek)
 
 ## Timelines
