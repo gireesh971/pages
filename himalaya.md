@@ -65,9 +65,8 @@ Depending on how we fare on the trail, we will attempt the challenging peak:
 - Emergency evacuation and hospitalization charges
 
 <p align="center">
-    <a href='https://www.free-counters.org/'>free HitCounters</a> 
     <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=6c7412639126d6d57948dd598929718bd1c7709c'></script>
     <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1426767/t/5"></script>
-    </p>
+</p>
 
 ---
