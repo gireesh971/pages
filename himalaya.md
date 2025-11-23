@@ -26,6 +26,14 @@ Depending on how we fare on the trail, we will attempt the challenging peak:
 
 📅 **[Add to Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kuari%20Pass%20%26%20Pangarchulla%20Hike&dates=20250312/20250322&details=Kuari%20Pass%20%26%20Pangarchulla%20Trek%20organized%20by%20Somas%20Camps.%20March%2012-21%2C%202025.%20Package%20cost%3A%20%E2%82%B918%2C500%20per%20person.&location=Delhi%2C%20India&sf=true&output=xml)** - Block your calendar for March 12-21, 2025
 
+## More Information
+
+📋 **[Detailed Itinerary](itinerary-details)** - Complete day-by-day breakdown with all activities
+
+🎒 **[Packing List & Trek Info](to-bring)** - Everything you need to bring and trek details
+
+📜 **[Terms & Conditions](terms)** - Cancellation policy and important guidelines
+
 ## Itinerary
 
 | Date | Day | Activity | Distance | Time | Altitude | Stay | Meals |
@@ -65,9 +73,8 @@ Depending on how we fare on the trail, we will attempt the challenging peak:
 - Emergency evacuation and hospitalization charges
 
 <p align="center">
-    <a href='https://www.free-counters.org/'>free HitCounters</a> 
     <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=6c7412639126d6d57948dd598929718bd1c7709c'></script>
     <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1426767/t/5"></script>
-    </p>
+</p>
 
 ---
